@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">CaloCare</string>
+    <string name="basic_info_title">You</string>
+    <string name="bmr_info_title">Physical Info</string>
+    <string name="goal_title">Goal</string>
+    <string name="active_level_title">Active Level</string>
+    <string name="txt_name">Name</string>
+    <string name="rdbtn_male">Male</string>
+    <string name="rdbtn_female">Female</string>
+    <string name="rdbtn_other">Other</string>
+    <string name="btn_next">Next</string>
+    <string name="txt_gender">Gender</string>
+    <string name="txt_age">Age</string>
+    <string name="txt_info">Basic Info</string>
+    <string name="txt_height">Height</string>
+    <string name="txt_weight">Weight</string>
+    <string name="txt_food_choice">What you had?</string>
+    <string name="rDbtn_notActive">Not Active</string>
+    <string name="rDbtn_slightlyActive">Slightly Active</string>
+    <string name="rDbtn_active">Active</string>
+    <string name="text_view_howActive">How Active Are you?</string>
+    <string name="txt_gain">Gain weight</string>
+    <string name="txt_lose">Lose weight</string>
+    <string name="txt_maintain">Maintain weight</string>
+    <string name="txt_height_cm">Fill in cm</string>
+    <string name="txt_height_ft">Fill in ft</string>
+    <string name="txt_weight_kg">Fill in kg</string>
+    <string name="txt_weight_lb">Fill in lb</string>
+    <string name="txt_calories">Calories</string>
+    <string name="txt_carbs">Carbs</string>
+    <string name="txt_protein">Protein</string>
+    <string name="txt_fat">Fat</string>
+    <string name="txt_fiber">Fiber</string>
+    <string name="txt_cholesterol">Cholesterol</string>
+    <string name="txt_calcium">Calcium</string>
+    <string name="txt_numOfServ">Number of servings</string>
+    <string name="txt_add">Add</string>
+    <string name="food_info_title">Food Info</string>
+    <string name="txt_caloRemian">Calories Remaining</string>
+    <string name="txt_minus">-</string>
+    <string name="txt_equal">=</string>
+    <string name="txt_goal">Goal</string>
+    <string name="txt_Food_main">Food</string>
+    <string name="txt_remaing">Remaining</string>
+    <string name="txt_to_add_food">Add Food</string>
+    <string name="txt_edit_info">Edit Info</string>
+</resources>
